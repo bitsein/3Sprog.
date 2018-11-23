@@ -10,3 +10,7 @@
 連結リスト、構造体  
 reverse_list  
 join_list  
+## 第４回
+リストを用いた行列表現
+疎行列の積の実装
+multiply_matrix
