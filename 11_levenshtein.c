@@ -1,3 +1,21 @@
+/*
+編集距離を動的計画法で解く
+
+入力の形式
+ACGTAT
+CGCAT
+動的計画法の表
+      C G C A  T
+   0  2 4 6 8 10
+A  2  1 3 5 6  8
+C  4  2 2 3 5  7
+G  6  4 2 3 4  6
+T  8  6 4 3 4  4
+A 10  8 6 5 3  5
+T 12 10 8 7 5  3
+答え
+3
+*/
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
