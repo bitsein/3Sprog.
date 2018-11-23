@@ -1,4 +1,4 @@
-#include "heap.h"
+#include "7_heap.h"
 #include<stdlib.h>
 #define NEW(p,n) {p = malloc((n)*sizeof(p[0]));}
 #define LEFT(i) (2*(i))
