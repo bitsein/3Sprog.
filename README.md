@@ -24,5 +24,5 @@ insert_delete
 insert_delete_search  
 ## 第７回  
 ヒープソート  
-heap
+heap、改良の必要あり
 ## 第８回  
