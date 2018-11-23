@@ -1,3 +1,18 @@
+/*
+入力例
+5
+7
+3
+5
+9
+1
+出力例
+1
+3
+5
+7
+9
+*/
 #include<stdio.h>
 #include<stdlib.h>
 #include "7_heap.h"
