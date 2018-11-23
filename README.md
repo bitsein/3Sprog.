@@ -17,4 +17,8 @@ multiply_matrix
 ## 第５回  
 文字列を辞書順にソート  
 アップしたコードなし  
-## 第６回
+## 第６回  
+辞書操作（insert, delete）  
+ハッシュ表  
+insert_delete  
+insert_delete_search  
