@@ -31,4 +31,5 @@ heap、7_2は改良の必要あり
 動的計画法
 巡回セールスマン問題(Traveling Salesman Problem)  
 ## 第１２回
-２分探索
+２分探索  
+LIS(Longest Increasing Subsequence)
