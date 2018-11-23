@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-#include "heap.h"
+#include "7_heap.h"
 
 int main(){
     int i,j,k,l;
