@@ -1,3 +1,7 @@
+/*
+疎行列の二乗
+多分これが一番早いと思います。
+*/
 #include<stdio.h>
 #include<stdlib.h>
 #define NEW(p,n) {p = malloc((n)*sizeof(p[0])); if ((p)==NULL) {printf("not enough memory¥n"); exit(1);};}
