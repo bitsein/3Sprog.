@@ -22,3 +22,7 @@ multiply_matrix
 ハッシュ表  
 insert_delete  
 insert_delete_search  
+## 第７回  
+ヒープソート  
+heap
+## 第８回  
